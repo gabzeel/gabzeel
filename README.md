@@ -1,4 +1,4 @@
-🔗 This document is also available in [English](./README.pt-br.md).
+🔗 This document is also available in [Portuguese](./README.pt-br.md).
 
 - 👋 Hi, I’m @gabzeel
 - 👀 I’m interested in ...
