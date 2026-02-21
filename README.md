@@ -1,3 +1,5 @@
+Versão em **[Português](https://github.com/gabzeel/gabzeel/blob/main/README.pt-br.md)**
+
 # Hello, I'm Gabriel! 👋
 
 Welcome to my profile!
