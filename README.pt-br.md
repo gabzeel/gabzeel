@@ -1,3 +1,4 @@
+**[English](https://github.com/gabzeel/gabzeel)** version
 
 # Olá, eu sou o Gabriel! 👋
 
@@ -14,7 +15,7 @@ Sou um entusiasta da tecnologia vivendo no sul do **Brasil**. Sou formado em **C
 
 Acredito que a tecnologia mudou minha vida e moldou quem sou hoje.
 
-> 🌐 Caso queira saber mais sobre mim, fique à vontade para visitar minha página pessoal: **[gabzeel.github.io](https://gabzeel.github.io/)**
+> 🌐 Caso queira saber mais sobre mim, fique à vontade para visitar minha página pessoal: **[https://gabzeel.dev/](https://gabzeel.dev/)**
 
 ## 2. Perfil Profissional 🚀
 
