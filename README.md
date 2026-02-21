@@ -1,4 +1,3 @@
-
 # Hello, I'm Gabriel! 👋
 
 Welcome to my profile!
@@ -14,7 +13,7 @@ I am a tech enthusiast living in southern **Brazil**. I hold a degree in **Compu
 
 I believe technology has changed my life and shaped who I am today.
 
-> 🌐 If you want to know more about me, feel free to visit my personal page: **[gabzeel.github.io](https://gabzeel.github.io/)**
+> 🌐 If you want to know more about me, feel free to visit my personal page: **[https://gabzeel.dev/](https://gabzeel.dev/)**
 
 ## 2. Professional Profile 🚀
 
